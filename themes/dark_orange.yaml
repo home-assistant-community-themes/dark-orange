@@ -41,3 +41,4 @@ dark_orange:
   table-row-alternative-background-color: "var(--sidebar-text_-_background)"
   table-row-background-color: "var(--paper-card-background-color)"
   text-primary-color: "#ffffff"
+  sidebar-background-color: "var(--sidebar-text_-_background)"
