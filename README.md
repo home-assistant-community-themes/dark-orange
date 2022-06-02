@@ -1,7 +1,7 @@
 # Dark Orange Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/dark-orange.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/dark-orange)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Dark Orange Theme by Bram_Kragten
 
